@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @adithyan-sreeni
-- 👀 I’m interested in web dev
-- 🌱 I’m currently learning java
+- 👀 I’m interested in App Development
+- 🌱 I’m currently learning Flutter
 - 💞️ I’m looking to collaborate on nothing
 - 📫 How to reach me discord
 
