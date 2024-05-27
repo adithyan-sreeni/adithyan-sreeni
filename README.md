@@ -2,7 +2,7 @@
 - 👀 I’m interested in App Development
 - 🌱 I’m currently learning Flutter
 - 💞️ I’m looking to collaborate on nothing
-- 📫 How to reach me discord
+- 📫 Reach me through mail - adithyansreeni8@gmail.com
 
 <!---
 adithyan-sreeni/adithyan-sreeni is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
