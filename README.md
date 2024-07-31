@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @adithyan-sreeni
 - 👀 I’m interested in App Development
 - 🌱 I’m currently learning Flutter
-- 💞️ I’m looking to collaborate on nothing
+- 💞️ I’m looking to collaborate on building sikk apps
 - 📫 Reach me through mail - adithyansreeni8@gmail.com
 <!---
 adithyan-sreeni/adithyan-sreeni is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
